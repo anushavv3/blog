@@ -8,12 +8,12 @@ This project is a **responsive blog page** built using **Bootstrap 5 CDN**. It d
 
 ###  Desktop View
 <p align="center">
-  <img src="screenshots/desktop.png" width="700">
+  <img src="screenshots/desktopview.png" width="700">
 </p>
 
 ###  Mobile View
 <p align="center">
-  <img src="screenshots/mobile.png" width="250">
+  <img src="screenshots/mobileview.png" width="250">
 </p>
 
 
