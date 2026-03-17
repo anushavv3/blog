@@ -4,13 +4,17 @@
 
 This project is a **responsive blog page** built using **Bootstrap 5 CDN**. It demonstrates the use of Bootstrap components such as **Navbar, Cards, Grid System, and Footer** to create a clean and modern UI.
 
-## 📸 Screenshots
+##  Screenshots
 
-### 💻 Desktop View
-![Desktop](screenshots/desktopview.png)
+###  Desktop View
+<p align="center">
+  <img src="screenshots/desktop.png" width="700">
+</p>
 
-### 📱 Mobile View
-![Mobile](screenshots/mobileview.png)
+###  Mobile View
+<p align="center">
+  <img src="screenshots/mobile.png" width="250">
+</p>
 
 
 ##  Features
@@ -35,7 +39,7 @@ This project is a **responsive blog page** built using **Bootstrap 5 CDN**. It d
 
 
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 1. Download or clone the project
 2. Open `index.html` in any browser
@@ -43,7 +47,7 @@ This project is a **responsive blog page** built using **Bootstrap 5 CDN**. It d
 
 
 
-## 📱 Responsiveness
+##  Responsiveness
 
 * Uses Bootstrap grid system (`col-md-4`)
 * Automatically adapts layout:
